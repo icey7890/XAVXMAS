@@ -2,6 +2,7 @@
 <!DOCTYPE HTML>
 <html>
     <head>
+          <link rel="icon" type="image/png" href="https://gifcity.carrd.co/assets/images/gallery88/9c99427d.gif?v=3fc8f5cd">
 <style>
     .countup-overlay {
         display: block;
@@ -10,64 +11,136 @@
         height: 160px;
         border: 0;
     }
+    .page-layout {
+        display: flex;
+        align-items: center;
+        gap: 24px;
+    }
+    .page-content {
+        flex: 1;
+        min-width: 0;
+        text-align: center;
+    }
+    .left-image-aside {
+        flex: 0 0 200px;
+        text-align: center;
+    }
+    .left-image {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+    .side-image {
+        display: block;
+        width: 350px;
+        height: auto;
+        object-fit: contain;
+    }
+    .image-aside {
+        position: relative;
+        flex: 0 0 350px;
+    }
+    .image-caption {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        margin: 8px 0 0;
+        text-align: center;
+    }
+    @media (max-width: 700px) {
+        .page-layout {
+            flex-direction: column;
+        }
+        .image-aside {
+            flex-basis: auto;
+            width: min(350px, 80vw);
+        }
+        .left-image-aside {
+            flex-basis: auto;
+            width: min(200px, 70vw);
+        }
+        .side-image {
+            width: 100%;
+        }
+        .image-caption {
+            position: static;
+            margin-top: 8px;
+        }
+    }
 </style>
 </head>
 <body style="background-image:url('https://gifcity.carrd.co/assets/images/gallery63/fef26883.gif?v=3fc8f5cd'); color: white;">
-<hr>
-<div align="center">
-    <img src="https://gifcity.carrd.co/assets/images/gallery39/b8836245.gif?v=3fc8f5cd"> 
-<img src="https://gifcity.carrd.co/assets/images/gallery201/c4dea74c.gif?v=3fc8f5cd">
-<img src="https://gifcity.carrd.co/assets/images/gallery39/b8836245.gif?v=3fc8f5cd"> 
-<hr>
+    <div class="page-layout">
+        <aside class="left-image-aside">
+            <img class="left-image" src="download (1).png" alt="">
+            <p>the first day we kissed... man i was so fucking embarassing... holy shit...<br>
+            how did you deal with my cringey ass?? <br>
+            <em>August 25, 2026</em></p>
+        </aside>
+        <main class="page-content">
+            <hr>
+            <img src="https://gifcity.carrd.co/assets/images/gallery39/b8836245.gif?v=3fc8f5cd">
+            <br>
+            <img src="https://gifcity.carrd.co/assets/images/gallery201/c4dea74c.gif?v=3fc8f5cd">
+            <br>
+            <img src="https://gifcity.carrd.co/assets/images/gallery39/b8836245.gif?v=3fc8f5cd">
+            <hr>
 
-    <h1 style="color: white;"><em>Merry Christmas</em></h1>
-i love it when you are a needy little thing <br>
-i love you and need you forever
-<br>
-<br>
-<img src="https://gifcity.carrd.co/assets/images/gallery118/faead495.gif?v=3fc8f5cd">
-<br>
-<img src="https://gifcity.carrd.co/assets/images/gallery39/59fbc9ea.png?v=3fc8f5cd">
-<br>
-you know i'm yours and only yours my sweet boy
-<iframe
-    class="countup-overlay"
-    src="https://www.tickcounter.com/countup/551169/how-long-we-have-been-together"
-    title="How long we have been together"
-></iframe>
-don't ever doubt my love for you
-<br>
-<br>
-<img src="https://supplies.ju.mp/assets/images/gallery07/384eccb8.gif?v=2e2c9a9d">
-<img src="https://gifcity.carrd.co/assets/images/gallery15/fe0621b5.gif?v=3fc8f5cd">
-<img src="https://supplies.ju.mp/assets/images/gallery07/e39c73b3.gif?v=2e2c9a9d">
-<img src="https://gifcity.carrd.co/assets/images/gallery14/a11f2934.gif?v=3fc8f5cd">
-<img src="https://gifcity.carrd.co/assets/images/gallery14/5f7f6125.gif?v=3fc8f5cd">
-<img src="https://gifcity.carrd.co/assets/images/gallery14/e72c8840.gif?v=3fc8f5cd">
-<img src="https://gifcity.carrd.co/assets/images/gallery14/a66d9c92.gif?v=3fc8f5cd">
-<img src="https://gifcity.carrd.co/assets/images/gallery14/c82ccf24.gif?v=3fc8f5cd">
-<br>
-<img src="https://supplies.ju.mp/assets/images/gallery07/384eccb8.gif?v=2e2c9a9d">
-<img src="https://gifcity.carrd.co/assets/images/gallery15/fe0621b5.gif?v=3fc8f5cd">
-<img src="https://supplies.ju.mp/assets/images/gallery07/e39c73b3.gif?v=2e2c9a9d">
-<img src="https://gifcity.carrd.co/assets/images/gallery14/a11f2934.gif?v=3fc8f5cd">
-<img src="https://gifcity.carrd.co/assets/images/gallery14/5f7f6125.gif?v=3fc8f5cd">
-<img src="https://gifcity.carrd.co/assets/images/gallery14/e72c8840.gif?v=3fc8f5cd">
-<img src="https://gifcity.carrd.co/assets/images/gallery14/a66d9c92.gif?v=3fc8f5cd">
-<img src="https://gifcity.carrd.co/assets/images/gallery14/c82ccf24.gif?v=3fc8f5cd">
-<br>
-<img src="https://supplies.ju.mp/assets/images/gallery07/384eccb8.gif?v=2e2c9a9d">
-<img src="https://gifcity.carrd.co/assets/images/gallery15/fe0621b5.gif?v=3fc8f5cd">
-<img src="https://supplies.ju.mp/assets/images/gallery07/e39c73b3.gif?v=2e2c9a9d">
-<img src="https://gifcity.carrd.co/assets/images/gallery14/a11f2934.gif?v=3fc8f5cd">
-<img src="https://gifcity.carrd.co/assets/images/gallery14/5f7f6125.gif?v=3fc8f5cd">
-<img src="https://gifcity.carrd.co/assets/images/gallery14/e72c8840.gif?v=3fc8f5cd">
-<img src="https://gifcity.carrd.co/assets/images/gallery14/a66d9c92.gif?v=3fc8f5cd">
-<img src="https://gifcity.carrd.co/assets/images/gallery14/c82ccf24.gif?v=3fc8f5cd">
+            <div
+ style="background-image: url('https://gifcity.carrd.co/assets/images/gallery66/8deb6e70.jpg?v=3fc8f5cd');">
+ <h1 style="color: white;">
+ 
+ <img src="https://gifcity.carrd.co/assets/images/gallery88/00b37591.gif?v=3fc8f5cd">
+    <em>Merry Christmas</em>
+<img src="https://gifcity.carrd.co/assets/images/gallery88/00b37591.gif?v=3fc8f5cd">
 
-<br>
-<br>
-<br>
-
-</div>
-</p>
+</h1>
+            i love it when you are a needy little thing
+            <br>
+            i love you and need you forever <br>
+            <img src="https://gifcity.carrd.co/assets/images/gallery118/faead495.gif?v=3fc8f5cd">
+            <img src="3dgifmaker18568-ezgif.com-crop.gif" width="150">
+            <img src="https://gifcity.carrd.co/assets/images/gallery118/faead495.gif?v=3fc8f5cd">
+            <br>
+            <img src="https://gifcity.carrd.co/assets/images/gallery38/64419efb.gif?v=3fc8f5cd">
+            <img src="https://gifcity.carrd.co/assets/images/gallery38/64419efb.gif?v=3fc8f5cd">
+            <img src="https://gifcity.carrd.co/assets/images/gallery38/64419efb.gif?v=3fc8f5cd">
+            <br>
+            you know i'm yours and only yours my sweet boy
+        </div>
+            <iframe
+                class="countup-overlay"
+                src="https://www.tickcounter.com/countup/551169/how-long-we-have-been-together"
+                title="How long we have been together"
+            ></iframe>
+            <em>don't ever doubt my love for you</em>
+            <br>
+            <br>
+            <img src="https://supplies.ju.mp/assets/images/gallery07/384eccb8.gif?v=2e2c9a9d">
+            <img src="https://gifcity.carrd.co/assets/images/gallery15/fe0621b5.gif?v=3fc8f5cd">
+            <img src="https://supplies.ju.mp/assets/images/gallery07/e39c73b3.gif?v=2e2c9a9d">
+            <img src="https://gifcity.carrd.co/assets/images/gallery14/a11f2934.gif?v=3fc8f5cd">
+            <img src="https://gifcity.carrd.co/assets/images/gallery14/5f7f6125.gif?v=3fc8f5cd">
+            <img src="https://gifcity.carrd.co/assets/images/gallery14/e72c8840.gif?v=3fc8f5cd">
+            <img src="https://gifcity.carrd.co/assets/images/gallery14/a66d9c92.gif?v=3fc8f5cd">
+            <img src="https://gifcity.carrd.co/assets/images/gallery14/c82ccf24.gif?v=3fc8f5cd">
+            <br>
+            <img src="https://supplies.ju.mp/assets/images/gallery07/384eccb8.gif?v=2e2c9a9d">
+            <img src="https://gifcity.carrd.co/assets/images/gallery15/fe0621b5.gif?v=3fc8f5cd">
+            <img src="https://supplies.ju.mp/assets/images/gallery07/e39c73b3.gif?v=2e2c9a9d">
+            <img src="https://gifcity.carrd.co/assets/images/gallery14/a11f2934.gif?v=3fc8f5cd">
+            <img src="https://gifcity.carrd.co/assets/images/gallery14/5f7f6125.gif?v=3fc8f5cd">
+            <img src="https://gifcity.carrd.co/assets/images/gallery14/e72c8840.gif?v=3fc8f5cd">
+            <img src="https://gifcity.carrd.co/assets/images/gallery14/a66d9c92.gif?v=3fc8f5cd">
+            <img src="https://gifcity.carrd.co/assets/images/gallery14/c82ccf24.gif?v=3fc8f5cd">
+            <br>
+            <br>
+        </main>
+        <aside class="image-aside">
+            <img class="side-image" src="image_2026-11-08_210201880.png">
+            <p class="image-caption">first picture i have of you on my phone... from the moma date, i still get shy looking at it !!!!!</p>
+        </aside>
+    </div>
+</body>
+</html>
